@@ -1,0 +1,27 @@
+# SKY-HI – Sarracenia
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+やわらかな繭(まゆ)から
+羽ばたく蝶のように
+唇のLabyrinth
+すべてを許して
+Don't be afraid
+
+体を解き放つ
+もっと深いBlue
+永遠に覚めない
+夢がそこにはある
+Don't be afraid
+
+なにもない世界へ
+ふたりは生まれ続ける
+
+Sarracenia
+
+なにもない世界へ
+ふたりは生まれ続ける
+
+Sarracenia
+```
