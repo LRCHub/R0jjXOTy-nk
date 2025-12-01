@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Sarracenia",
+  "base_artist": "SKY-HI",
+  "createdAt": "2025-12-01T03:40:45.776238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sarracenia",
+      "artist": "SKY-HI",
+      "has_synced": true,
+      "path": "select/01_Sarracenia_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sarracenia",
+      "artist": "SKY-HI",
+      "has_synced": true,
+      "path": "select/02_Sarracenia_SKY-HI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sarracenia",
+      "artist": "Dirge",
+      "has_synced": false,
+      "path": "select/03_Sarracenia_Dirge.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sarracenia",
+      "artist": "氷室京介",
+      "has_synced": false,
+      "path": "select/04_Sarracenia_氷室京介.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sarracenia",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_01_Sarracenia_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sarracenia -Anime Size-",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_02_Sarracenia_-Anime_Size-_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sarracenia",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_03_Sarracenia_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sarracenia -Instrumental-",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_04_Sarracenia_-Instrumental-_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sarracenia",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_05_Sarracenia_氷室_京介.txt"
+    }
+  ]
+}
